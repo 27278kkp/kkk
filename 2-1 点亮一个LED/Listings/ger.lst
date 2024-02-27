@@ -1,0 +1,33 @@
+C51 COMPILER V9.60.7.0   GER                                                               12/02/2023 16:46:10 PAGE 1   
+
+
+C51 COMPILER V9.60.7.0, COMPILATION OF MODULE GER
+OBJECT MODULE PLACED IN .\Objects\ger.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE ger.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\ger.l
+                    -st) TABS(2) OBJECT(.\Objects\ger.obj)
+
+line level    source
+
+   1          #include <REGX52.H>
+   2          void main()
+   3          {
+   4   1        P2=0x55;//1111 1110
+   5   1        while(1)
+   6   1        {
+   7   2        
+   8   2        }
+   9   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =      5    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

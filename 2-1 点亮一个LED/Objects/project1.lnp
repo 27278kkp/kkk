@@ -1,0 +1,3 @@
+".\Objects\ger.obj" 
+TO ".\Objects\project1" 
+PRINT(".\Listings\project1.m51") RAMSIZE(256) 
